@@ -13,3 +13,7 @@ Added header 1 through 6 using # symbols.
 x_var = "Hello World"
 print(x_var)
 ```
+
+- [ ] Make item 1
+- [ ] Make item 2
+- [ ] Make item 3
