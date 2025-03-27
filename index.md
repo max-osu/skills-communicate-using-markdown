@@ -6,3 +6,5 @@
 ###### Header 6
 
 Added header 1 through 6 using # symbols.
+
+![Star Wars Storm Trooper Cat](https://octodex.github.com/images/stormtroopocat.png)
